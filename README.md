@@ -18,6 +18,12 @@ https://regexr.com/
 
 
 
+## 참고 사이트
+
+https://heropy.blog/2018/10/28/regexp/
+
+
+
 ## 정규식 생성
 
 ```js
